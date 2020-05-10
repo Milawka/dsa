@@ -1,4 +1,4 @@
-package Chapter2.P2_30;
+package com.company.Chapter2.P2_30;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
